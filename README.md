@@ -46,7 +46,3 @@ echo $x;
 
 ```
 
-
-
-## Live version here : https://arni.fr/web-ip/
-
